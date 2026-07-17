@@ -43,6 +43,7 @@ markers:
   - {type: punctuation, offset: 51, content: ',', id: KR2p0072_tls_001-bkkpn19}
   - {type: 'tls:seg', offset: 51, content: '', id: KR2p0072_tls_001-3a.4}
   - {type: punctuation, offset: 54, content: (, id: KR2p0072_tls_001-bkkpn20}
+  - {type: voice, offset: 54, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 55, content: ), id: KR2p0072_tls_001-bkkpn21}
   - {type: punctuation, offset: 58, content: '?', id: KR2p0072_tls_001-bkkpn22}
   - {type: 'tls:seg', offset: 58, content: '', id: KR2p0072_tls_001-3a.5}
@@ -217,4 +218,4 @@ markers:
   - {type: punctuation, offset: 325, content: ']', id: KR2p0072_tls_001-bkkpn118}
   - {type: xml-element, offset: 325, content: '', id: KR2p0072_tls_001-bkkxmlele18, name: p, role: close, attrs: {source: 'SHANGBO.WUMING 7.43.8 (STRIP 8B) MACHENGYUAN 7: 321 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:7532d866d1c9a867ca5bd0f9d7a46cd52e76f7c5c944da4136f946176dc7ffae
+hash: sha256:1b5dca532b9b2286f7fa7b9eb66dd778d234be8ce393cf4b60d331e4e32b01af
